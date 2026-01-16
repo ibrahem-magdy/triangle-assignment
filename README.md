@@ -76,9 +76,3 @@ pnpm start
 - ✅ View upcoming sessions
 - ✅ User registration form with validation
 - ✅ Responsive design with Tailwind CSS
-
-## Deployment
-
-### Vercel (Recommended)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
