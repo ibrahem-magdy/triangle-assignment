@@ -1,0 +1,93 @@
+{
+  "header": {
+    "impact_report": "Impact Report",
+    "search": "Search",
+    "accessibility": "Accessibility",
+    "menu": "Menu",
+    "switch_language": "عربي"
+  },
+
+  "registrationForm": {
+    "tagline": "DONT MISS UPCOMING SESSIONS",
+    "title": "Register",
+    "subtitle": "Your Interest Now",
+    "fields": {
+      "firstName": "First Name *",
+      "lastName": "Last Name *",
+      "email": "Email Address *",
+      "companyName": "Company Name *",
+      "jobTitle": "Job Title *",
+      "companyWebsite": "Company Website *",
+      "iAm": "I am a *",
+      "howDidYouHear": "How did you hear about Hub71",
+      "interestedIn": "Interested In",
+      "countryOfResidence": "Country of residence"
+    },
+    "options": {
+      "gender": {
+        "male": "Male",
+        "female": "Female"
+      },
+      "howDidYouHear": {
+        "socialMedia": "Social Media",
+        "event": "Event",
+        "referral": "Referral",
+        "search": "Search Engine",
+        "other": "Other"
+      },
+      "countries": {
+        "uae": "United Arab Emirates",
+        "sa": "Saudi Arabia",
+        "us": "United States",
+        "uk": "United Kingdom",
+        "other": "Other"
+      }
+    },
+    "marketing": "I agree to receive marketing emails and communications from Hub71",
+    "buttons": {
+      "submit": "SUBMIT",
+      "clear": "Clear Form"
+    }
+  },
+
+  "sessions": {
+    "keepUpdated": "KEEP UPDATED",
+    "upcomingSessions": "Upcoming Sessions",
+    "previousSessions": "Previous Sessions",
+    "to": "TO",
+    "registerNow": "REGISTER NOW",
+    "getRecording": "GET RECORDING"
+  },
+
+  "footer": {
+    "get": "GET",
+    "inTouch": "IN TOUCH",
+    "subscribe": "SUBSCRIBE",
+    "toOurNewsletter": "TO OUR NEWSLETTER",
+    "yourMail": "Your Mail",
+    "subscribeButton": "SUBSCRIBE",
+    "privacyNotice": "PRIVACY NOTICE",
+    "termsOfUse": "TERMS OF USE",
+    "column1": {
+      "startup": "I AM A STARTUP",
+      "discoverHub": "DISCOVER HUB71+",
+      "partners": "OUR PARTNERS",
+      "events": "EVENTS",
+      "techLicense": "ADGM TECH LICENSE"
+    },
+    "column2": {
+      "invest": "I WANT TO INVEST",
+      "startups": "STARTUPS",
+      "careers": "STARTUP CAREERS",
+      "programs": "PROGRAMS",
+      "contact": "CONTACT US"
+    },
+    "column3": {
+      "whoWeAre": "WHO WE ARE",
+      "investors": "INVESTORS",
+      "news": "LATEST NEWS",
+      "reports": "REPORTS",
+      "feedback": "FEEDBACK/SUGGESTION"
+    }
+  }
+}

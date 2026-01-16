@@ -1,0 +1,92 @@
+{
+  "header": {
+    "impact_report": "تقرير التأثير",
+    "search": "بحث",
+    "accessibility": "إمكانية الوصول",
+    "menu": "القائمة",
+    "switch_language": "En"
+  },
+
+  "registrationForm": {
+    "tagline": "لا تفوت الجلسات القادمة",
+    "title": "سجل",
+    "subtitle": "اهتمامك الآن",
+    "fields": {
+      "firstName": "الاسم الأول *",
+      "lastName": "اسم العائلة *",
+      "email": "البريد الإلكتروني *",
+      "companyName": "اسم الشركة *",
+      "jobTitle": "المسمى الوظيفي *",
+      "companyWebsite": "موقع الشركة *",
+      "iAm": "أنا *",
+      "howDidYouHear": "كيف سمعت عن Hub71",
+      "interestedIn": "مهتم بـ",
+      "countryOfResidence": "بلد الإقامة"
+    },
+    "options": {
+      "gender": {
+        "male": "ذكر",
+        "female": "أنثى"
+      },
+      "howDidYouHear": {
+        "socialMedia": "وسائل التواصل الاجتماعي",
+        "event": "حدث",
+        "referral": "إحالة",
+        "search": "محرك بحث",
+        "other": "آخر"
+      },
+      "countries": {
+        "uae": "الإمارات العربية المتحدة",
+        "sa": "المملكة العربية السعودية",
+        "us": "الولايات المتحدة",
+        "uk": "المملكة المتحدة",
+        "other": "آخر"
+      }
+    },
+    "marketing": "أوافق على تلقي رسائل البريد الإلكتروني والاتصالات التسويقية من Hub71",
+    "buttons": {
+      "submit": "إرسال",
+      "clear": "مسح النموذج"
+    }
+  },
+
+  "sessions": {
+    "keepUpdated": "ابق على اطلاع",
+    "upcomingSessions": "الجلسات القادمة",
+    "previousSessions": "الجلسات السابقة",
+    "to": "إلى",
+    "registerNow": "سجل الآن",
+    "getRecording": "احصل على التسجيل"
+  },
+  "footer": {
+    "get": "ابق",
+    "inTouch": "على تواصل",
+    "subscribe": "اشترك",
+    "toOurNewsletter": "في نشرتنا الإخبارية",
+    "yourMail": "بريدك الإلكتروني",
+    "subscribeButton": "اشترك",
+    "privacyNotice": "سياسة الخصوصية",
+    "termsOfUse": "شروط الاستخدام",
+    "column1": {
+      "startup": "أنا شركة ناشئة",
+      "discoverHub": "اكتشف HUB71+",
+      "partners": "شركاؤنا",
+      "events": "الفعاليات",
+      "techLicense": "ترخيص ADGM التقني"
+    },
+    "column2": {
+      "invest": "أريد الاستثمار",
+      "startups": "الشركات الناشئة",
+      "careers": "وظائف الشركات الناشئة",
+      "programs": "البرامج",
+      "contact": "اتصل بنا"
+    },
+    "column3": {
+      "whoWeAre": "من نحن",
+      "investors": "المستثمرون",
+      "news": "آخر الأخبار",
+      "reports": "التقارير",
+      "feedback": "ملاحظات/اقتراحات"
+    }
+  }
+}
