@@ -16,7 +16,7 @@ const Page = async ({ params }: { params: Promise<{ lang: Locale }> }) => {
   const dict = await getDictionary(lang);
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-[4fr_3fr] gap-0 lg:gap-10 mt-[50px]">
+    <div className="grid grid-cols-1 lg:grid-cols-[4fr_3fr] gap-0 lg:gap-10 mt-[0] md:mt-[50px]">
       <div className="bg-white rounded-lg py-4">
         <Suspense fallback={<SessionsLoading dict={dict} />}>
           <Sessions lang={lang} dict={dict} />

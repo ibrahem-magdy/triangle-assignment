@@ -100,7 +100,7 @@ const Footer = ({ lang, dict }: { lang: Locale; dict: any }) => {
   };
 
   return (
-    <footer className="bg-[#EFF1F5] py-[54px]">
+    <footer className="bg-[#EFF1F5] py-[54px] overflow-hidden">
       <motion.div
         className="container mx-auto px-4"
         initial="hidden"
