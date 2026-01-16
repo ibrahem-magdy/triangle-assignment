@@ -220,7 +220,11 @@ const RegistrationForm = ({ lang, dict }: { lang: Locale; dict: any }) => {
                 className="px-16 py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold text-sm tracking-wider transition-colors"
                 disabled={mutation.isPending}
               >
-                {mutation.isPending ? <Spinner /> : t.buttons.submit}
+                {mutation.isPending ? (
+                  <Spinner className="m-auto " />
+                ) : (
+                  t.buttons.submit
+                )}
               </button>
 
               <button
